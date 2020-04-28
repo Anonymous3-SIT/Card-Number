@@ -2,7 +2,7 @@
 
 
 sleep 2
-toilet -f standard "Anonymous3-SIT" -F gay
+toilet -f standard "xAnony18" -F gay
 sleep 2
 apt-get update && apt-get upgrade
 sleep 2
