@@ -1,4 +1,4 @@
-![Screenshot_2020-04-21-20-19-31-15](https://raw.githubusercontent.com/Anonymous3-SIT/Tebas/master/Screenshot_2020-04-21-20-19-31-15.png)
+![IMG_20200428_072542](https://raw.githubusercontent.com/Anonymous3-SIT/Tebas/master/Screenshot_2020-04-21-20-19-31-15.png)
 ```
 
 Indonesia :
