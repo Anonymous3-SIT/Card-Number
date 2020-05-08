@@ -18,7 +18,7 @@ echo $red . "
                                    
 ";
 echo $blue . "==================================";
-echo $bold . $green . "\nCoder   : php.Script Code
+echo $bold . $green . "\nCoder    : php.Script Code
 Author   : Mr.TamfanX
 Team     : SHUTDWON INDO TEAM
 WhatsApp : +628999271792
@@ -26,7 +26,7 @@ Code     : PHP
 Version  : 8.9.8.0
 Note: 
 JANGAN DISALAH GUNAKAN.!!! \n";
-echo $bold . $green . "DMYH    : $date\n";
+echo $bold . $green . "DMYH     : $date\n";
 echo $blue . "==================================\n";
 echo $bold . $red . "Count      : ";
 $count = trim(fgets(STDIN,1024));
